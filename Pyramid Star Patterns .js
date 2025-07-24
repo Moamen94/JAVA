@@ -13,4 +13,5 @@ function printPyramid() {
     }
 }
 
+
 printPyramid();
